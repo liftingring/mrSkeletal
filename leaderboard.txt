@@ -1,0 +1,1 @@
+{"scores": {"coronasan#3763": 1, "mahmud": -1000, "phill#1876": 1}}
